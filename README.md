@@ -10,10 +10,13 @@ This is a simple Python tool to generate multiple EVM-compatible wallets (Ethere
 
 - Generate **unlimited** wallets quickly
 - Saves output in 4 clear formats:
-  - `private_keys.txt` – Only private keys
-  - `mnemonics.txt` – Only 12-word recovery phrases
-  - `addresses.txt` – Wallet addresses
-  - `wallets_full.txt` – Combined: `address,private_key,mnemonic`
+| File Name          | Description                                  |
+| ------------------ | -------------------------------------------- |
+| `addresses.txt`    | EVM wallet addresses                         |
+| `private_keys.txt` | Private keys (hex format)                    |
+| `mnemonics.txt`    | 12-word mnemonic phrases                     |
+| `wallets_full.txt` | All 3 in CSV: `address,private_key,mnemonic` |
+
 - Uses secure BIP39 mnemonics and `eth-account` for HD wallet support
 
 <br>
