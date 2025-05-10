@@ -16,7 +16,9 @@ This is a simple Python tool to generate multiple EVM-compatible wallets (Ethere
   - `wallets_full.txt` – Combined: `address,private_key,mnemonic`
 - Uses secure BIP39 mnemonics and `eth-account` for HD wallet support
 
-## 🛠 STEPS
+<br>
+
+# 🛠 STEPS
 
 ### Install Python:
 
