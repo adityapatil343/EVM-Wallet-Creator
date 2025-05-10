@@ -6,8 +6,6 @@ This is a simple Python tool to generate multiple EVM-compatible wallets (Ethere
 - ✅ Clean separation of each component into separate files
 - ✅ Full consolidated output in a single CSV-style file
 
----
-
 ## 📦 Features
 
 - Generate **unlimited** wallets quickly
@@ -18,10 +16,9 @@ This is a simple Python tool to generate multiple EVM-compatible wallets (Ethere
   - `wallets_full.txt` – Combined: `address,private_key,mnemonic`
 - Uses secure BIP39 mnemonics and `eth-account` for HD wallet support
 
-
 ## 🛠 STEPS
 
-Install Python:
+## Install Python:
 
       sudo apt install python3 python3-pip -y
 
@@ -43,7 +40,4 @@ Install Python:
 
     python3 EVMCREATE.py
 
-## Done! 
-
-## at last Enter how many wallets you want to create when prompted.
-
+## Done!
