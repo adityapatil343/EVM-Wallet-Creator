@@ -25,25 +25,20 @@ This is a simple Python tool to generate multiple EVM-compatible wallets (Ethere
 # 🛠 STEPS:
 
 ### Install Python:
-
-      sudo apt install python3 python3-pip -y
+            sudo apt install python3 python3-pip -y
 
 ### Create a virtual environment named 'venv' & Active 
-
-    python3 -m venv venv
-    source venv/bin/activate
+            python3 -m venv venv
+            source venv/bin/activate
 
 ### Clone this repository:
-
-    https://github.com/adityapatil343/EVM-Wallet-Creator
-    cd EVM-Wallet-Creator
+            https://github.com/adityapatil343/EVM-Wallet-Creator
+            cd EVM-Wallet-Creator
 
 ### Once activated, you can install the required packages:
-   
-    pip install eth-account mnemonic
+            pip install eth-account mnemonic
 
 ### Run the wallet creator:
-
-    python3 EVMCREATE.py
+            python3 EVMCREATE.py
 
 ### Done!
