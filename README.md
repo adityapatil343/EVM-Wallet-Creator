@@ -22,7 +22,7 @@ This is a simple Python tool to generate multiple EVM-compatible wallets (Ethere
 
 <br>
 
-# 🛠 STEPS
+# 🛠 STEPS:
 
 ### Install Python:
 
@@ -33,14 +33,14 @@ This is a simple Python tool to generate multiple EVM-compatible wallets (Ethere
     python3 -m venv venv
     source venv/bin/activate
 
-### Once activated, you can install the required packages:
-   
-    pip install eth-account mnemonic
-
 ### Clone this repository:
 
     https://github.com/adityapatil343/EVM-Wallet-Creator
     cd EVM-Wallet-Creator
+
+### Once activated, you can install the required packages:
+   
+    pip install eth-account mnemonic
 
 ### Run the wallet creator:
 
