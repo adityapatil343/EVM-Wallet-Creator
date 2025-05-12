@@ -24,7 +24,7 @@ This is a simple Python tool to generate multiple EVM-compatible wallets (Ethere
 
 # 🛠 STEPS:
 
-### Install Python:
+### Install Python:  
             sudo apt install python3 python3-pip -y
 
 ### Create a virtual environment named 'venv' & Active 
