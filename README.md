@@ -41,4 +41,4 @@ This is a simple Python tool to generate multiple EVM-compatible wallets (Ethere
 ### Run the wallet creator:
             python3 EVMCREATE.py
 
-### Done!
+### Done! (:
